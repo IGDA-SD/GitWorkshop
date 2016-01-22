@@ -94,6 +94,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 765272325}
   - 212: {fileID: 765272324}
+  - 114: {fileID: 765272326}
   m_Layer: 0
   m_Name: IGDA
   m_TagString: Untagged
@@ -143,6 +144,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+--- !u!114 &765272326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 765272323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b8996cf3dfda554f82f3e8e83ded7e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1177432248
 GameObject:
   m_ObjectHideFlags: 0
