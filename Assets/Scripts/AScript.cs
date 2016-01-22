@@ -3,7 +3,7 @@ using System.Collections;
 
 public class AScript : MonoBehaviour {
 
-	// Use this for initialization....
+	// Gonna make a conflict
 	void Start () {
 	
 	}
